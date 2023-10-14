@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<!-- MyBatis xml 파일 작성 시 반드시 mapper 태그의 namespace 속성값을
+     Mapper 인터페이스와 동일한 이름으로 설정해야 합니다. -->
+<mapper namespace="org.zerock.mapper.MemberMapper">
+
+		<!-- SELECT * FROM member where memberid = 'aaa' and email = 'aaa@naver.com' 
+		 -->
+	     <select id="read" resultType="org.zerock.domain.MemberVO">
+	     SELECT * FROM member where memberid = #{memberid} and email = #{email}
+	     </select>
+
+</mapper>
