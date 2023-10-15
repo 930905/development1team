@@ -21,7 +21,7 @@
                   <div class="footer-widget">
                       <h3 class="footer-title">Quick Links</h3>
                       <ul>
-                          <li><a href="#">Home </a></li>
+                          <li><a href="./main">Home </a></li>
                           <li><a href="#">About us </a></li>
                           <li><a href="#">Practice Area </a></li>
                           <li><a href="#">Cases </a></li>
@@ -63,24 +63,17 @@
       </div>
       <!-- footer-address-close -->
   </div>
-  <!-- tiny-footer-start -->
-  <div class="tiny-footer">
-      <div class="container">
-          <div class="row">
-              <div class="col-md-12">
-                  Shared by <i class="fa fa-love"></i><a href="https://bootstrapthemes.co">BootstrapThemes</a>
-              </div>
-          </div>
-      </div>
-      <!-- tiny-footer-start -->
   </div>
   <!-- footer close -->
-  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  <script src="/resources/js/jquery.min.js" type="text/javascript"></script>
-  <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src="/resources/js/bootstrap.min.js" type="text/javascript"></script>
-  <script src="/resources/js/menumaker.js" type="text/javascript"></script>
-  <!-- <script type="text/javascript" src="js/jquery.sticky.js"></script> -->
-  <!-- <script type="text/javascript" src="js/sticky-header.js"></script> -->
-  <script type="text/javascript" src="/resources/js/owl.carousel.min.js"></script>
-  <script type="text/javascript" src="/resources/js/slider.js"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/resources/js/js_main/jquery.min.js" type="text/javascript"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/resources/js/js_main/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/resources/js/js_main/menumaker.js" type="text/javascript"></script>
+    <!-- 
+    <script type="text/javascript" src="/resources/js/jquery.sticky.js"></script>
+    <script type="text/javascript" src="/resources/js/sticky-header.js"></script>  -->
+    <script type="text/javascript" src="/resources/js/js_main/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/resources/js/js_main/slider.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="/resources/js/js_main/jquery.bxslider.min.js"></script>

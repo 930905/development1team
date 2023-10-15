@@ -14,17 +14,17 @@
   lawyer, immigration law, family law, civil litigations, real estate law, injury, taxation law, free website templates,responsive HTML website template">
 <title>MODUA</title>
 <!-- Bootstrap -->
-<link href="/resources/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resources/css/css_main/bootstrap.min.css" rel="stylesheet">
 <!-- Style CSS -->
-<link href="/resources/css/style.css" rel="stylesheet">
+<link href="/resources/css/css_main/style.css" rel="stylesheet">
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 <!-- FontAwesome CSS -->
 <link rel="stylesheet" type="text/css" href="/resources/css/fontello.css">
-<link href="/resources/css/font-awesome.min.css" rel="stylesheet">
-<link href="/resources/css/owl.carousel.min.css" rel="stylesheet">
-<link href="/resources/css/owl.theme.default.css" rel="stylesheet">
+<link href="/resources/css/css_main/font-awesome.min.css" rel="stylesheet">
+<link href="/resources/css/css_main/owl.carousel.min.css" rel="stylesheet">
+<link href="/resources/css/css_main/owl.theme.default.css" rel="stylesheet">
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>

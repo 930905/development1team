@@ -8,7 +8,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-2 col-sm-4 col-md-3 col-xs-12">
-          <div class="logo"> <a href="index.html"><img src="/resources/images/logo.png" class="img-responsive" alt=""></a> </div>
+          <div class="logo"> <a href=""><img src="/resources/images/images_main/logo.png" class="img-responsive" alt=""></a> </div>
         </div>
         <div class="col-lg-7 col-md-9 col-sm-12 col-xs-12">
           <div class="navigation-wrapper">
@@ -41,13 +41,13 @@
                 <li class="has-sub"><a href="#" title="Blog ">게시판</a>
                   <ul>
                     <li><a href="blog-default.html" title="Blog">후기게시판</a></li>
-                    <li><a href="blog-single.html" title="Blog Single ">자유게시판</a></li>
+                    <li><a href="/freeboard/freelist" title="Blog Single ">자유게시판</a></li>
                   </ul>
                 </li>
                 <li class="has-sub"><a href="#" title="Features">알려드립니다</a>
                   <ul>
                     <li><a href="testimonials.html" title="Testimonials">공지사항</a></li>
-                    <li><a href="faq.html" title="FAQ">FAQ</a></li>
+                    <li><a href="/qnaboard/qnalist" title="FAQ">FAQ</a></li>
                   </ul>
                 </li>
               </ul>
@@ -57,8 +57,8 @@
         <div class="col-lg-1 hidden-md hidden-sm hidden-xs">
           <div class="member">
             <ul>
-              <li><a href="#">로그인</a></li>
-              <li><a href="#">회원가입</a></li>
+              <li><a href="/member/login">로그인</a></li>
+              <li><a href="/member/signUp">회원가입</a></li>
             </ul>
           </div>
         </div>
